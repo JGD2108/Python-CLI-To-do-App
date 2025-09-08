@@ -1,0 +1,12 @@
+*.txt
+!requirements.txt
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+dist/
+build/
+*.spec
+users_files/
+test_users.txt
