@@ -1,3 +1,6 @@
+*.html
+*.htm
+*.tex
 *.txt
 !requirements.txt
 venv/
